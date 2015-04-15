@@ -1,0 +1,5 @@
+= stormcloud
+
+Generate this with
+    stormcloud rdoc
+After you have described your command line interface
